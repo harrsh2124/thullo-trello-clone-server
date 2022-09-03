@@ -1,1 +1,0 @@
-# Thullo - Trello-clone (server)
