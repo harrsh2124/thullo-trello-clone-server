@@ -1,1 +1,1 @@
-# thullo-trello-clone-server
+# Thullo - Trello-clone (server)
