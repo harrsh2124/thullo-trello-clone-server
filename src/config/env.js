@@ -10,6 +10,10 @@ const env = {
     port: normalizePort(process.env.PORT || getOsEnv('PORT')),
     routePrefix: getOsEnv('APP_ROUTE_PREFIX'),
   },
+
+  database: {
+    mongodb_uri: getOsEnv('MONGODB_URI'),
+  },
 };
 
 module.exports = env;
